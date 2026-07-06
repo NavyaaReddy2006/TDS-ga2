@@ -25,7 +25,7 @@ dQIDAQAB
 # 4. Q3: 12-Factor Config (Manually merge the variables)
 Q3_PORT = 8458
 Q3_WORKERS = 3
-Q3_DEBUG = true
+Q3_DEBUG = True
 Q3_LOG_LEVEL = "debug"
 
 # 5. Q5: Analytics (Find the API key in the Q5 instruction tab)
